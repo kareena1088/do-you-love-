@@ -1,0 +1,19 @@
+*{
+    background-color: pink;
+}
+.pageone{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 45px;
+}
+.buttonone{
+    font-size: 45px;
+    margin: 40px;
+    /* padding-bottom: 300PX; */
+}
+.lovepage{
+    display: flex;
+    flex-wrap: wrap; /* Adjusts items on smaller screens */
+    justify-content: center;
+    gap: 10px;
+}
